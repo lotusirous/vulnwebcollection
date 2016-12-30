@@ -26,3 +26,4 @@ WackoPicko is a website that contains known vulnerabilities. It was first used f
 * `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
 * `docker pull bkimminich/juice-shop` - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop#docker-container--)
 * OWASP Broken Web Applications Project https://github.com/chuckfw/owaspbwa/
+* WASP Vulnerable Web Applications Directory Project/Pages/Offline https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/Offline
