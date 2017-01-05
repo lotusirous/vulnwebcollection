@@ -1,4 +1,4 @@
-# vulnwebcollection
+# Web vulnerability collection
 
 https://github.com/adamdoupe/WackoPicko
 
