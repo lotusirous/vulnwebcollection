@@ -27,3 +27,13 @@ WackoPicko is a website that contains known vulnerabilities. It was first used f
 * `docker pull bkimminich/juice-shop` - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop#docker-container--)
 * OWASP Broken Web Applications Project https://github.com/chuckfw/owaspbwa/
 * WASP Vulnerable Web Applications Directory Project/Pages/Offline https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/Offline
+
+
+Web attack vectors:
+
+- http://noxxi.de/research/http-evader-explained-6-whitespace.html
+- https://github.com/wisec/domxsswiki/wiki
+- Nginx Anti XSS & SQL Injection. https://github.com/nbs-system/naxsi
+- Malware domain list: http://www.malwaredomainlist.com/hostslist/hosts.txt
+- http://groups.csail.mit.edu/pag/ardilla/
+- https://blog.haschek.at/2017/how-to-defend-your-website-with-zip-bombs.html
