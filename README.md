@@ -8,7 +8,7 @@ WackoPicko is a website that contains known vulnerabilities. It was first used f
 
 - SQLi, XSS http://www.dvwa.co.uk/
 - XSS https://github.com/google/firing-range
-- Markdown xss https://github.com/showdownjs/showdown/wiki/Markdown's-XSS-Vulnerability-(and-how-to-mitigate-it)
+- [Markdown xss](https://github.com/showdownjs/showdown/wiki/Markdown's-XSS-Vulnerability-(and-how-to-mitigate-it)) and [all payload](https://github.com/cujanovic/Markdown-XSS-Payloads/blob/master/Markdown-XSS-Payloads.txt)
 - SQLi https://github.com/Audi-1/sqli-labs
 - IBM XSS test suite: http://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=1598
 - Path traversal https://github.com/wireghoul/dotdotpwn
