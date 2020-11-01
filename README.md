@@ -1,11 +1,6 @@
 # Web vulnerability collection
 
-https://github.com/swisskyrepo/PayloadsAllTheThings
-
-https://github.com/adamdoupe/WackoPicko
-
-WackoPicko is a website that contains known vulnerabilities. It was first used for the paper Why Johnny Can't Pentest: An Analysis of Black-box Web Vulnerability Scanners
-
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - SQLi, XSS http://www.dvwa.co.uk/
 - XSS https://github.com/google/firing-range
 - [Markdown xss](https://github.com/showdownjs/showdown/wiki/Markdown's-XSS-Vulnerability-(and-how-to-mitigate-it)) and [all payload](https://github.com/cujanovic/Markdown-XSS-Payloads/blob/master/Markdown-XSS-Payloads.txt)
@@ -32,8 +27,10 @@ WackoPicko is a website that contains known vulnerabilities. It was first used f
 * OWASP Broken Web Applications Project https://github.com/chuckfw/owaspbwa/
 * WASP Vulnerable Web Applications Directory Project/Pages/Offline https://www.owasp.org/index.php/OWASP_Vulnerable_Web_Applications_Directory_Project/Pages/Offline
 
+## Tools 
+- [WackoPicko](https://github.com/adamdoupe/WackoPicko)
 
-Web attack vectors:
+## Web attack vectors
 
 - http://noxxi.de/research/http-evader-explained-6-whitespace.html
 - https://github.com/wisec/domxsswiki/wiki
